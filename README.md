@@ -1,8 +1,8 @@
 UMayor
 
-Evaluacion Unidad 2
+Evaluación Unidad 2
 
-Computacion Mobil
+Computación Móvil
 
 
 Grupo 15
