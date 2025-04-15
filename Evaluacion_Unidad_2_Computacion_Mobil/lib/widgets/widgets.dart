@@ -1,0 +1,11 @@
+export 'package:flutter_application_1/widgets/top_header.dart';
+export 'package:flutter_application_1/widgets/header.dart';
+export 'package:flutter_application_1/widgets/banner_umayor.dart';
+export 'package:flutter_application_1/widgets/text_umayor.dart';
+export 'package:flutter_application_1/widgets/info_umayor.dart';
+export 'package:flutter_application_1/widgets/navbar.dart';
+export 'package:flutter_application_1/widgets/text_ingreso.dart';
+export 'package:flutter_application_1/widgets/banner_estudiantes.dart';
+export 'package:flutter_application_1/widgets/text_estudiantes.dart';
+export 'package:flutter_application_1/widgets/banner_campus.dart';
+export 'package:flutter_application_1/widgets/text_campus.dart';
